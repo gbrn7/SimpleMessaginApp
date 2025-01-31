@@ -38,4 +38,4 @@ Http Router `/` with CORS and CSRF middleware
     go run main.go
     ```
 Your api should be running at `http://localhost:4000/` if the port is in use you may modify it in the `.env` you just created.
-# SimpleMessaginApp
+# SimpleMessagingApp
